@@ -14,7 +14,7 @@ import {
 } from "@mui/material";
 
 import RefreshIcon from "@mui/icons-material/Refresh";
-import { propertySquare } from "../config";
+import { propertySquare } from "@/libs/config";
 
 
 const Filter = () => {
