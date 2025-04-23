@@ -21,6 +21,8 @@ const withLayoutMain = (Component: any) => {
          </Stack>
        </Stack>
 
+       <Stack className="box"></Stack>
+
        <Stack id={"main"}>
         <Component {...props}/>
        </Stack>
